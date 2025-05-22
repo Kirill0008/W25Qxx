@@ -1,6 +1,6 @@
 # W25QXX Flash Memory Library for Arduino
 
-A comprehensive Arduino library for interfacing with Winbond W25QXX series SPI flash memory chips. This library is based on code from [f4lcrum/W25Q32-Arduino-STM32](https://github.com/f4lcrum/W25Q32-Arduino-STM32,https://github.com/f4lcrum/DEM4PED_W25QXX) with significant improvements and additions.
+A comprehensive Arduino library for interfacing with Winbond W25QXX series SPI flash memory chips. This library is based on code from [f4lcrum/W25Q32-Arduino-STM32](https://github.com/f4lcrum/W25Q32-Arduino-STM32) with significant improvements and additions.
 
 ## Features
 
@@ -88,7 +88,7 @@ void loop() {
 
 THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-This library is based on code originally developed by f4lcrum and available at [https://github.com/f4lcrum/W25Q32-Arduino-STM32](https://github.com/f4lcrum/W25Q32-Arduino-STM32,https://github.com/f4lcrum/W25Q32-Arduino-STM32,https://github.com/f4lcrum/DEM4PED_W25QXX). While significant modifications and improvements have been made, the core functionality owes credit to this original work.
+This library is based on code originally developed by f4lcrum and available at [https://github.com/f4lcrum/W25Q32-Arduino-STM32](https://github.com/f4lcrum/W25Q32-Arduino-STM32,https://github.com/f4lcrum/W25Q32-Arduino-STM32). While significant modifications and improvements have been made, the core functionality owes credit to this original work.
 
 ## Safety Warning
 
@@ -108,6 +108,6 @@ This library is released under the MIT License. See LICENSE file for details.
 
 ## Acknowledgments
 
-- Original code by f4lcrum ([W25Q32-Arduino-STM32](https://github.com/f4lcrum/W25Q32-Arduino-STM32,https://github.com/f4lcrum/W25Q32-Arduino-STM32,https://github.com/f4lcrum/DEM4PED_W25QXX))
+- Original code by f4lcrum ([W25Q32-Arduino-STM32](https://github.com/f4lcrum/W25Q32-Arduino-STM32,https://github.com/f4lcrum/W25Q32-Arduino-STM32))
 - Winbond for their excellent flash memory products
 - Arduino community for SPI library and support
