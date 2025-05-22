@@ -81,6 +81,8 @@ void loop() {
 - `writeClean(page, offset, length, data)` - Write with automatic sector erase
 - `eraseSector(sectorNum)` - Erase 4KB sector
 - `detectSize()` - Auto-detect chip capacity
+## Supports MCU
+Tested on STM32F103
 
 ## Disclaimer
 
